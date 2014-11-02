@@ -84,6 +84,7 @@ ModelImporter:
     7400002: Idle
     7400004: Death
     9500000: //RootNode
+    11100000: //RootNode
     13700000: Zombunny
   materials:
     importMaterials: 1
@@ -94,7 +95,7 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 1
     motionNodeName: 
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: .5
     animationPositionError: .5
     animationScaleError: .5
