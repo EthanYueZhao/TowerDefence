@@ -1,8 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Users\Yue\Desktop\PG2week6\Assets\script\SimpleFSM.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TDTK_Free\Scripts\Misc\VersionLabel.cs">
     <Files>
-      <File FileName="C:\Users\Yue\Desktop\PG2week6\Assets\script\SimpleFSM.cs" Line="4" Column="20" />
+      <File FileName="Assets\TDTK_Free\Scripts\C#\UI.cs" Line="21" Column="27" />
+      <File FileName="Assets\TDTK_Free\Scripts\C#\GameControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\TDTK_Free\Scripts\C#\AudioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\TDTK_Free\Scripts\Misc\VersionLabel.cs" Line="22" Column="165" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
